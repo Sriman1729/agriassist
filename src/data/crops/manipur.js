@@ -1,0 +1,17 @@
+// src/data/crops/manipur.js
+export const MANIPUR_DISTRICT_CROPS = { "Bishnupur": ["paddy", "maize", "pulses", "vegetables"],
+  "Chandel": ["paddy", "maize", "millets", "vegetables"],
+  "Churachandpur": ["paddy", "maize", "pulses", "vegetables"],
+  "Imphal East": ["paddy", "maize", "vegetables", "pulses"],
+  "Imphal West": ["paddy", "maize", "vegetables", "pulses"],
+  "Jiribam": ["paddy", "maize", "pulses", "vegetables"],
+  "Kakching": ["paddy", "maize", "vegetables", "pulses"],
+  "Kamjong": ["paddy", "maize", "millets", "vegetables"],
+  "Kangpokpi": ["paddy", "maize", "pulses", "vegetables"],
+  "Noney": ["paddy", "maize", "millets", "pulses"],
+  "Pherzawl": ["paddy", "maize", "millets", "vegetables"],
+  "Senapati": ["paddy", "maize", "millets", "pulses"],
+  "Tamenglong": ["paddy", "millets", "vegetables", "pulses"],
+  "Tengnoupal": ["paddy", "maize", "millets", "vegetables"],
+  "Thoubal": ["paddy", "maize", "vegetables", "pulses"],
+  "Ukhrul": ["paddy", "millets", "vegetables", "pulses"]};

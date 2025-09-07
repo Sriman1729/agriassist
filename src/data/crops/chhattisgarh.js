@@ -1,0 +1,32 @@
+// src/data/crops/chhattisgarh.js
+
+export const CHHATTISGARH_DISTRICT_CROPS = {
+  "Balod": ["paddy", "wheat", "maize", "pulses"],
+  "Baloda Bazar": ["paddy", "maize", "wheat", "vegetables"],
+  "Balrampur": ["paddy", "maize", "pulses", "millets"],
+  "Bastar": ["paddy", "maize", "millets", "vegetables"],
+  "Bemetara": ["paddy", "wheat", "maize", "pulses"],
+  "Bijapur": ["paddy", "millets", "maize", "pulses"],
+  "Bilaspur": ["paddy", "maize", "wheat", "sugarcane"],
+  "Dantewada": ["paddy", "maize", "millets", "pulses"],
+  "Dhamtari": ["paddy", "maize", "wheat", "vegetables"],
+  "Durg": ["paddy", "wheat", "maize", "pulses"],
+  "Gariaband": ["paddy", "maize", "pulses", "vegetables"],
+  "Gaurela-Pendra-Marwahi": ["paddy", "maize", "wheat", "pulses"],
+  "Janjgir-Champa": ["paddy", "maize", "wheat", "vegetables"],
+  "Jashpur": ["paddy", "maize", "millets", "vegetables"],
+  "Kabirdham": ["paddy", "maize", "wheat", "pulses"],
+  "Kanker": ["paddy", "millets", "maize", "pulses"],
+  "Kondagaon": ["paddy", "millets", "maize", "vegetables"],
+  "Korba": ["paddy", "maize", "vegetables", "pulses"],
+  "Koriya": ["paddy", "maize", "wheat", "pulses"],
+  "Mahasamund": ["paddy", "wheat", "maize", "vegetables"],
+  "Mungeli": ["paddy", "maize", "wheat", "pulses"],
+  "Narayanpur": ["paddy", "millets", "maize", "vegetables"],
+  "Raigarh": ["paddy", "maize", "wheat", "pulses"],
+  "Raipur": ["paddy", "maize", "wheat", "vegetables"],
+  "Rajnandgaon": ["paddy", "wheat", "maize", "pulses"],
+  "Sukma": ["paddy", "millets", "maize", "pulses"],
+  "Surajpur": ["paddy", "maize", "wheat", "vegetables"],
+  "Surguja": ["paddy", "maize", "millets", "pulses"]
+};
