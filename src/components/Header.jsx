@@ -19,7 +19,6 @@ export default function Header() {
     { name: "Calendar", to: "/calendar" },
     { name: "Resources", to: "/resources" },
     { name: "Market Insights", to: "/market" },
-    { name: "Calendar", to: "/calendar" },
   ];
 
   const groupedLanguages = {
